@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.timedisplay",
+  "appName": "Time Display",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
